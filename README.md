@@ -13,6 +13,9 @@ WHEN the game is over
 THEN I can save my initials and score
 
 Mock-Up:
+<img width="960" alt="Screen Shot 2022-01-23 at 9 12 08 PM (3)" src="https://user-images.githubusercontent.com/95260935/150711204-57da8a40-dbd7-458a-b6c4-8fda4c43a211.png">
+
+
 
 Deployed Application:
 https://kimmy-hill.github.io/coding_quiz/
