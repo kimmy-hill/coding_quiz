@@ -13,8 +13,7 @@ WHEN the game is over
 THEN I can save my initials and score
 
 Mock-Up:
-<img width="960" alt="Screen Shot 2022-01-23 at 9 12 08 PM (3)" src="https://user-images.githubusercontent.com/95260935/150711204-57da8a40-dbd7-458a-b6c4-8fda4c43a211.png">
-
+<img width="1512" alt="Screen Shot 2022-01-23 at 9 13 54 PM" src="https://user-images.githubusercontent.com/95260935/150711356-44d399ae-eff6-44a9-b6ef-54b231533cc4.png">
 
 
 Deployed Application:
